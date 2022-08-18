@@ -1,0 +1,15 @@
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\bin\Debug\net6.0\Final_Work1.exe
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\bin\Debug\net6.0\Final_Work1.deps.json
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\bin\Debug\net6.0\Final_Work1.runtimeconfig.json
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\bin\Debug\net6.0\Final_Work1.dll
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\bin\Debug\net6.0\Final_Work1.pdb
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\obj\Debug\net6.0\Final_Work1.csproj.AssemblyReference.cache
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\obj\Debug\net6.0\Final_Work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\obj\Debug\net6.0\Final_Work1.AssemblyInfoInputs.cache
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\obj\Debug\net6.0\Final_Work1.AssemblyInfo.cs
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\obj\Debug\net6.0\Final_Work1.csproj.CoreCompileInputs.cache
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\obj\Debug\net6.0\Final_Work1.dll
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\obj\Debug\net6.0\refint\Final_Work1.dll
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\obj\Debug\net6.0\Final_Work1.pdb
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\obj\Debug\net6.0\Final_Work1.genruntimeconfig.cache
+C:\Users\anyak\OneDrive\Рабочий стол\Final\Final_Work\Final_Work1\obj\Debug\net6.0\ref\Final_Work1.dll
